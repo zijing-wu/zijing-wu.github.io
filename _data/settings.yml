@@ -32,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Zijing <br> 你好呀
+  hero-title: Hi! 你好呀! <br> I'm Zijing =))
 
 social:
 - {icon: "ti-instagram", link: "https://www.instagram.com/zjwiiiii/"}
@@ -43,11 +43,11 @@ social:
 
 # About Section
 blurb:
-  Welcome to my page! I write in English and Chinese, which ever I feel like for the article. They are different contents so please help yourself with the translation if needed when there isn't enough to read in English.
-  欢迎欢迎！我会随心情用中英文写文章，所以每篇的内容都是不一样的。如果中文文章看不够的话，欢迎阅（翻）读（译）英文文章~
+  Welcome! I am new to writing but I plan to publish a new article every 2 weeks to share interests and ideas. Maybe also some one liners when I want to rant lol <br>
+  欢迎欢迎！这是我第一次试图写东西，尽量每两周更一篇文章，分享我最近的所见所闻所思所爱. 当然也有可能加点小吐槽~
 
 blurb-btn-link: '/about'
-blurb-btn-name: more about myself? 我是谁？
+blurb-btn-name: more about me ? 我是谁
 
 #-------------------------------
 # Contact Section
