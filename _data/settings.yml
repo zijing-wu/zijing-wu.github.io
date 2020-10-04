@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Zijing Wu
+title: Zijing =))
 logo: 
 author: zj
 
@@ -32,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! 你好呀! <br> I'm Zijing =))
+  hero-title: Hi! 你好呀!
 
 social:
 - {icon: "ti-instagram", link: "https://www.instagram.com/zjwiiiii/"}
