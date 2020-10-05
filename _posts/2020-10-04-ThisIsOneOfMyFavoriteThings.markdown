@@ -17,6 +17,8 @@ To help myself melt into different worlds more easily, I explore beyond reading.
 
 After that, I understand a bit more of the stories. They can be in a bowl of noodles, the smell of an tangerine orange, a font that mom loves to use, a soft toy that travels with me around the world, a habit I developed over time, or a tea pot from a friend. Because of their obscurity, the stories might not be easy to understand and have others feel the same feeling.
 
+![More favorite things](/assets/images/blog/post-20201004-2.jpg)
+
 I hope more people can enjoy the stories as I do, so I'd like to do two things to bridge this gap: telling stories and providing more context. 
 
 This is the first time I tried to tell stories. My friends used to call me a story blackhole as I kept asking for stories but not telling them back. I will try to tell stories here, from my life, friends, book/movie, anything. It could be trivial but somehow hit me; it could be something big and I can only peek into one corner of it. But I will try to tell you what I see, what I hear, what I feel, and what I think of it. Pardon my immature writing, I hope to get better in the process.
@@ -26,4 +28,6 @@ The second thing is to help understand the context. It becomes easier to see whe
 I had, on different occassions, an urge to write something down. But either I never started, or I suddenly had too much to say and I couldn't capture it. So in the end, nothing came out. Hopefully through continuous writing, the process will be smoother.
 
 Artists create when they are super happy or super sad. I remember hearing this from some podcast. I'm in neither situation, but I'm not an aritst anyways. I can just start typing~
+
+![Even more favorite things](/assets/images/blog/post-20201004-3.jpg)
 
