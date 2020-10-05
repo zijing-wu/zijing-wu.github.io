@@ -17,7 +17,7 @@ To help myself melt into different worlds more easily, I explore beyond reading.
 
 After that, I understand a bit more of the stories. They can be in a bowl of noodles, the smell of an tangerine orange, a font that mom loves to use, a soft toy that travels with me around the world, a habit I developed over time, or a tea pot from a friend. Because of their obscurity, the stories might not be easy to understand and have others feel the same feeling. 
 
-<img src="{{/assets/images/blog/post-20201004-2.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{More favorite things}}">
+<img src="{{/assets/images/blog/post-20201004-2.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{More favorite things}}"></img>
 
 I hope more people can enjoy the stories as I do, so I'd like to do two things to bridge this gap: telling stories and providing more context. 
 
@@ -29,5 +29,5 @@ I had, on different occassions, an urge to write something down. But either I ne
 
 Artists create when they are super happy or super sad. I remember hearing this from some podcast. I'm in neither situation, but I'm not an aritst anyways. I can just start typing~ 
 
-<img src="{{/assets/images/blog/post-20201004-3.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{Even more favorite things}}">
+<img src="{{/assets/images/blog/post-20201004-3.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{Even more favorite things}}"></img>
 
