@@ -15,7 +15,7 @@ Natuarally, I look for stories, from movies, series, musicals, operas, and of co
 
 To help myself melt into different worlds more easily, I explore beyond reading. The first time I became aware of the hidden stories was when I had a bowl of noodles thousands miles away from home. The presentation, the taste, the ingredients were all new to me, but somehow it felt similar to my favorite noodles at home. I could see when people from my hometown moved years ago, they tried to materialize their feeling of nostalgia in the noodles. And the tweaks and differences capture their gradual adaptation to the local environment and culture.
 
-After that, I understand a bit more of the stories. They can be in a bowl of noodles, the smell of an tangerine orange, a font that mom loves to use, a soft toy that travels with me around the world, a habit I developed over time, or a tea pot from a friend. Because of their obscurity, the stories might not be easy to understand and have others feel the same feeling. <img src="{{page.image | /assets/images/blog/post-20201004-2.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{More favorite things}}">
+After that, I understand a bit more of the stories. They can be in a bowl of noodles, the smell of an tangerine orange, a font that mom loves to use, a soft toy that travels with me around the world, a habit I developed over time, or a tea pot from a friend. Because of their obscurity, the stories might not be easy to understand and have others feel the same feeling. <img src="{{/assets/images/blog/post-20201004-2.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{More favorite things}}">
 
 I hope more people can enjoy the stories as I do, so I'd like to do two things to bridge this gap: telling stories and providing more context. 
 
@@ -25,5 +25,5 @@ The second thing is to help understand the context. It becomes easier to see whe
 
 I had, on different occassions, an urge to write something down. But either I never started, or I suddenly had too much to say and I couldn't capture it. So in the end, nothing came out. Hopefully through continuous writing, the process will be smoother.
 
-Artists create when they are super happy or super sad. I remember hearing this from some podcast. I'm in neither situation, but I'm not an aritst anyways. I can just start typing~ <img src="{{page.image | /assets/images/blog/post-20201004-3.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{Even more favorite things}}">
+Artists create when they are super happy or super sad. I remember hearing this from some podcast. I'm in neither situation, but I'm not an aritst anyways. I can just start typing~ <img src="{{/assets/images/blog/post-20201004-3.jpg }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{Even more favorite things}}">
 
