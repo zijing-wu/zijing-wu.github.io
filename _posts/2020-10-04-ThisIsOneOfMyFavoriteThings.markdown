@@ -29,5 +29,5 @@ I had, on different occassions, an urge to write something down. But either I ne
 
 Artists create when they are super happy or super sad. I remember hearing this from some podcast. I'm in neither situation, but I'm not an aritst anyways. I can just start typing~
 
-<img src="{{ site.baseurl }}/assets/images/blog/post-20201004-3.jpg" class="img-fluid rounded float-left mr-5 mb-4 height-auto" alt="{{Even more favorite things}}">
+<img src="{{ site.baseurl }}/assets/images/blog/post-20201004-3.jpg" class="img-fluid rounded float-left mr-5 mb-4 height-auto width-75" alt="{{Even more favorite things}}">
 
