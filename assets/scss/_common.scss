@@ -30,6 +30,9 @@ ul {
 }
 
 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   vertical-align: middle;
   border: 0;
 }
@@ -128,10 +131,6 @@ a:hover {
 
 .text-light {
   color: $text-color-light !important;
-}
-
-.margin-auto {
-  margin: auto;
 }
 
 .mb-10 {
