@@ -3,7 +3,7 @@ layout: post
 title:  This Is One of My Favorite Things
 date:   2020-10-04 15:55:55 -0700
 image:  /assets/images/blog/post-20201004-1.jpg
-author: zj
+author: Zijing
 tags:   Thoughts
 ---
 

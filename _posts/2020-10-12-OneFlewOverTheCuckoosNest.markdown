@@ -3,7 +3,7 @@ layout: post
 title:  飞呀飞呀，飞过杜鹃窝吧
 date:   2020-10-12 23:15:55 -0700
 image:  /assets/images/blog/post-20201012-1.JPG
-author: zj
+author: Zijing
 tags:   Reflection
 ---
 
