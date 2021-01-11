@@ -7,7 +7,7 @@ author: Zijing
 tags:   Book reviews, Thoughts
 ---
 
-I like detective stories and I must have read Mr Holmes in primary school, but I have never read any of the works by Argatha Christina. I have no idea why. It's just as I don't know why I suddenly went to get a copy of Death on the Nile this weekend and finished it in a little more than a day.
+I like detective stories and I must have read Mr Holmes in primary school, but I have never read any of the works by Argatha Christie. I have no idea why. It's just as I don't know why I suddenly went to get a copy of Death on the Nile this weekend and finished it in a little more than a day.
 
 It is a page turner. Not in the same way throughout the book, but I just couldn't put it down. It has a rather slow beginning. You know there will be death, you can judge a book by it's cover sometimes, but it doesn't appear until half way. I wasn't even sure who would be killed, Linnet, Simon, or Jackie. I still think it's a good angle if Jackie is murdered, seemingly it must be done by Linnet and / or Simon, but there is a deeper plot. Maybe the criminal has some less known relationship with Jackie; maybe the criminal wants to frame the new couple; maybe ...
 
